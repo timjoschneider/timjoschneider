@@ -7,10 +7,9 @@
 
 - 🌱 I’m currently learning **how to apply for jobs with sense**
 
-- 👨‍💻 All of my projects are available at [soon come](https://pokefive.netlify.app/
-)
+- 👨‍💻 Before u get bored, here's one of my other projects https://pokefive.netlify.app/
 
-- 💬 Ask me about **weather-apps**
+- 💬 Ask me about **weather forecast**
 
 - 📫 How to reach me **timjoschneider@gmail.com**
 
