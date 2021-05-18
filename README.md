@@ -9,11 +9,11 @@
 
 - 👨‍💻 Before u get bored, here's one of my other projects https://pokefive.netlify.app/
 
-- 💬 Ask me about **weather forecast**
+- 🌦 Ask me about **weather forecast**
 
 - 📫 How to reach me **timjoschneider@gmail.com**
 
-- ⚡ Fun fact **I can juggle with 4 balls and clubs**
+- 🤹🏽 Fun fact **I can juggle with 4 balls and clubs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
