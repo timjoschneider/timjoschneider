@@ -7,7 +7,8 @@
 
 - 🌱 I’m currently learning **how to apply for jobs with sense**
 
-- 👨‍💻 All of my projects are available at [soon come](soon come)
+- 👨‍💻 All of my projects are available at [soon come](https://pokefive.netlify.app/
+)
 
 - 💬 Ask me about **weather-apps**
 
