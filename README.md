@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **timjoschneider@gmail.com**
 
-- ⚡ Fun fact **I can juggle with 4 balls and 3 clubs**
+- ⚡ Fun fact **I can juggle with 4 balls and clubs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
